@@ -1,0 +1,2 @@
+# LinuxWGM
+ubuntu scripts repository
